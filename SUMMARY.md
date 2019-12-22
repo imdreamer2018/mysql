@@ -7,4 +7,5 @@
 * [检索数据](jian-suo-shu-ju.md)
 * [排序检索数据](pai-xu-jian-suo-shu-ju.md)
 * [过滤数据](guo-lv-shu-ju.md)
+* [用正则表达式进行搜索](yong-zheng-ze-biao-da-shi-jin-hang-sou-suo.md)
 

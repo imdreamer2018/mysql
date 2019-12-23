@@ -8,4 +8,6 @@
 * [排序检索数据](pai-xu-jian-suo-shu-ju.md)
 * [过滤数据](guo-lv-shu-ju.md)
 * [用正则表达式进行搜索](yong-zheng-ze-biao-da-shi-jin-hang-sou-suo.md)
+* [创建计算字段](chuang-jian-ji-suan-zi-duan.md)
+* [使用数据处理函数](shi-yong-shu-ju-chu-li-han-shu.md)
 

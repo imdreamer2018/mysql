@@ -10,4 +10,7 @@
 * [用正则表达式进行搜索](yong-zheng-ze-biao-da-shi-jin-hang-sou-suo.md)
 * [创建计算字段](chuang-jian-ji-suan-zi-duan.md)
 * [使用数据处理函数](shi-yong-shu-ju-chu-li-han-shu.md)
+* [分组数据](fen-zu-shu-ju.md)
+* [使用子查询](shi-yong-zi-cha-xun.md)
+* [联结表](lian-jie-biao.md)
 

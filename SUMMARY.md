@@ -13,4 +13,7 @@
 * [分组数据](fen-zu-shu-ju.md)
 * [使用子查询](shi-yong-zi-cha-xun.md)
 * [联结表](lian-jie-biao.md)
+* [组合查询](zu-he-cha-xun.md)
+* [全文本搜索](quan-wen-ben-sou-suo.md)
+* [插入、更新和删除数据](cha-ru-geng-xin-he-shan-chu-shu-ju.md)
 

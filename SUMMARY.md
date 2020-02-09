@@ -17,4 +17,5 @@
 * [全文本搜索](quan-wen-ben-sou-suo.md)
 * [插入、更新和删除数据](cha-ru-geng-xin-he-shan-chu-shu-ju.md)
 * [创建和操纵表](chuang-jian-he-cao-zong-biao.md)
+* [使用视图](shi-yong-shi-tu.md)
 

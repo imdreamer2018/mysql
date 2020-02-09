@@ -144,5 +144,6 @@ DROP TABLE customers2;
 使用RENAME TABLE语句可以重命名一个表：
 
 ```mysql
-RENAME TABLE customers2 TO customers;\
+RENAME TABLE customers2 TO customers;
 ```
+
